@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(145, 248, 243);
 }
 .robotf {
   text-align: left;
@@ -36,7 +36,4 @@ body {
 .aclaracion {
   text-align: center;
   color: #111130;
-}
-body {
-  background-color: rgb(145, 248, 243);
 }

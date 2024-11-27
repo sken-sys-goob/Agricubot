@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(171, 252, 252);
 }
 .titulo {
   font-size: 50px;
@@ -41,7 +41,4 @@ body {
 }
 .modelos::first-letter {
   color: #4672fe;
-}
-body {
-  background-color: rgb(171, 252, 252);
 }
