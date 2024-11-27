@@ -19,7 +19,7 @@ body {
   color: #111115;
 }
 .cuerpo {
-  background-color: rgb(205, 225, 230);
+  background-color: rgb(80, 224, 205);
   padding: 30px;
 }
 .imagen {
@@ -41,4 +41,7 @@ body {
 }
 .modelos::first-letter {
   color: #4672fe;
+}
+body {
+  background-color: rgb(171, 252, 252);
 }
