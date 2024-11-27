@@ -1,0 +1,44 @@
+body {
+  background-color: aliceblue;
+}
+.titulo {
+  font-size: 50px;
+  text-align: center;
+  color: #111130;
+}
+#subtitulo {
+  text-align: left;
+  color: #111150;
+  size: 20px;
+}
+.eslogan {
+  text-align: center;
+  color: teal;
+}
+.parrafo {
+  color: #111115;
+}
+.cuerpo {
+  background-color: rgb(205, 225, 230);
+  padding: 30px;
+}
+.imagen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background-image: url(Agricubot.png);
+  padding: 10px;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-size: 60px;
+}
+.modelos {
+  text-decoration: none;
+  padding: 20px;
+  color: #111150;
+}
+.modelos::first-letter {
+  color: #4672fe;
+}
