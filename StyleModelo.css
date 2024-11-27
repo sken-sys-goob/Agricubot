@@ -1,0 +1,39 @@
+body {
+  background-color: aliceblue;
+}
+.robotf {
+  text-align: left;
+  color: rgb(10, 24, 83);
+}
+.robotfp {
+  text-align: left;
+  background-color: rgb(102, 209, 195);
+}
+.robote {
+  text-align: left;
+  color: rgb(4, 23, 48);
+}
+.robotep {
+  text-align: left;
+  background-color: rgb(148, 230, 202);
+}
+.imagen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background-image: url(Agricubot.png);
+  padding: 10px;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-size: 60px;
+}
+.titulo {
+  text-align: center;
+  color: #111130;
+}
+.aclaracion {
+  text-align: center;
+  color: #111130;
+}

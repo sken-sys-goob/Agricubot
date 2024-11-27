@@ -1,18 +1,26 @@
-.robotf {
-  text-align: left;
-  color: rgb(10, 24, 83);
+body {
+  background-color: aliceblue;
 }
-.robotfp {
-  text-align: left;
-  background-color: rgb(102, 209, 195);
+.titulo {
+  font-size: 50px;
+  text-align: center;
+  color: #111130;
 }
-.robote {
+#subtitulo {
   text-align: left;
-  color: rgb(4, 23, 48);
+  color: #111150;
+  size: 20px;
 }
-.robotep {
-  text-align: left;
-  background-color: rgb(148, 230, 202);
+.eslogan {
+  text-align: center;
+  color: teal;
+}
+.parrafo {
+  color: #111115;
+}
+.cuerpo {
+  background-color: rgb(205, 225, 230);
+  padding: 30px;
 }
 .imagen {
   position: fixed;
@@ -26,11 +34,11 @@
   background-repeat: no-repeat;
   background-size: 60px;
 }
-.titulo {
-  text-align: center;
-  color: #111130;
+.modelos {
+  text-decoration: none;
+  padding: 20px;
+  color: #111150;
 }
-.aclaracion {
-  text-align: center;
-  color: #111130;
+.modelos::first-letter {
+  color: #4672fe;
 }
